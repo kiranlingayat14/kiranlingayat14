@@ -30,7 +30,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Nikhil+Jadhav">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=kiran+lingayat">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Maharashtra</b> 」
     <br>
@@ -39,11 +39,11 @@
 </p>
 
 <p align="center">
- <a href="https://nikhil9579.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nikhil9579" />
+ <a href="https://kiranlingayat14.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="kiranlingayat14" />
  </a>
- <a href="https://www.linkedin.com/in/nikhil-jadhav-a65391250/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nikhil9579"/>
+ <a href="https://www.linkedin.com/in/kiranlingayat14-a65391250/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kiranlingayat14"/>
  </a>
  <!-- <a href="https://dev.to/nikhil9579" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="nikhil9579" />
